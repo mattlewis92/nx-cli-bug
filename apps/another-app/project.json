@@ -1,6 +1,5 @@
 {
   "projectType": "application",
-  "root": "apps/another-app",
   "sourceRoot": "apps/another-app/src",
   "prefix": "nx-cli-bug",
   "targets": {
